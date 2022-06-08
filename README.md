@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Hpruyle8
+- 👀 I’m interested in ...
+- Discord bot devolping and game moding
+- 🌱 I’m currently learning ...
+- js
+- 💞️ I’m looking to collaborate on ...
+- just general help
+- 📫 How to reach me ...
+my discord is Hp#9761
+<!---
+Hpruyle8/Hpruyle8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
